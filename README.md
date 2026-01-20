@@ -40,4 +40,5 @@ Alguns dos projetos que você encontrará aqui incluem:
 Fique à vontade para explorar os projetos e fornecer feedback. Você pode me encontrar através dos seguintes canais:
 
 GitHub: NaiaraAs.
+
 Email: alvesnaiara502@gmail.com
